@@ -76,7 +76,7 @@ finally:
 
 ## Error por valor inválido
 
-![Valor inválido](execepciones/img/reto3.png)
+![Valor inválido](excepciones/img/reto3.png)
 
 ### Reflexión personal
 
