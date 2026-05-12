@@ -64,19 +64,19 @@ finally:
 
 ## Ejecución correcta
 
-![Ejecución correcta](img/reto1.png)
+![Ejecución correcta](excepciones/img/reto1.png)
 
 ---
 
 ## Error por división entre cero
 
-![División entre cero](img/reto2.png)
+![División entre cero](excepciones/img/reto2.png)
 
 ---
 
 ## Error por valor inválido
 
-![Valor inválido](img/reto3.png)
+![Valor inválido](execepciones/img/reto3.png)
 
 ### Reflexión personal
 
