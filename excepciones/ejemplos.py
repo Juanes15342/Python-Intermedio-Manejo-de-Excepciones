@@ -180,30 +180,6 @@ except AttributeError:
  
  
 
-print("\n--- NameError ---")
-try:
-    print(variable_no_definida)  # Esta variable no existe en el codigo
-except NameError:
-    print("La variable no esta definida")
- 
- 
-
-print("\n--- ImportError ---")
-try:
-    import biblioteca_inexistente
-except ImportError:
-    print("No se pudo importar el modulo")
- 
- 
-
-print("\n--- ModuleNotFoundError ---")
-try:
-    import modulo_que_no_existe
-except ModuleNotFoundError:
-    print("El modulo no existe")
- 
- 
-
 print("\n--- Exception (clase base) ---")
 try:
     resultado = int("abc") / 0  # Puede lanzar ValueError o ZeroDivisionError
